@@ -6,7 +6,7 @@ This is a lightweight utility designed to help you restore lost achievements on 
 Built with the official Steamworks API, this application accurately targets and unlocks achievements using just a game's App ID. The process requires no installation or complex setup, providing a smooth, hassle-free user experience.
 
 ## Disclaimer
-This tool is provided *as is* with no guarantees. It is intended only for the restoration of achievements you have already earned. It should *not* be used in any *VAC-enabled game*, as it may be flagged by the Valve Anti-Cheat system, which could result in a permanent account ban. Use at your own risk.
+This tool is provided ***as is*** with no guarantees. It is intended only for the restoration of achievements you have already earned. It should ***not*** be used in any ***VAC-enabled game***, as it may be flagged by the Valve Anti-Cheat system, which could result in a permanent account ban. Use at your own risk.
 
 ## Instructions
 1. Please ensure the Steam client is open and you are logged in.
